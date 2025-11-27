@@ -8,6 +8,7 @@ CLAUDE.md
 # Common Data Files
 *.joblib
 *.json
+!.vscode/settings.json
 *.jsonl
 *.csv
 *.pt
