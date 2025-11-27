@@ -16,7 +16,6 @@ CLAUDE.md
 *.safetensors
 *.pkl
 *.pickle
-*.png
 *.txt
 *.prof
 *.html
